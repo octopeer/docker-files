@@ -1,0 +1,3 @@
+[submodule "docker-btsync"]
+	path = docker-btsync
+	url = git@github.com:octopeer/docker-btsync.git
